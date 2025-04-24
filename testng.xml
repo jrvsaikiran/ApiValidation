@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/rjakkula/IdeaProjects/API_GW/src/test/java/API/ValidateAPITest.java">
+        <classes>
+            <class name="API.ValidateAPITest">
+                <methods>
+                    <include name="API_Validations"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
